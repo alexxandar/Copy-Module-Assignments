@@ -4,7 +4,7 @@ With this Joomla plugin when we use option "Save as Copy" on a menu item, all th
 
 Installation
 ----
-Download zip from master branch and install using Joomla extension manager.
+Download latest release and install it using Joomla's extension manager.
 
 License
 ----
